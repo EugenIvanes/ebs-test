@@ -1,0 +1,11 @@
+/.env
+/.idea
+/__pycache__
+/apps/__pycache__
+/apps/users/__pycache__
+/apps/users/migrations/__pycache__
+/apps/products/__pycache__
+/apps/products/migrations/__pycache__
+/apps/wishes/__pycache__
+/apps/wishes/migrations/__pycache__
+/config/__pycache__
